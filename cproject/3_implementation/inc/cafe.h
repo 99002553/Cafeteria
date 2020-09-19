@@ -2,7 +2,6 @@
 #define __CAFE.H__
 
 #include<stdio.h>
-#include<conio.h>
 
 int Beverages();
 int Starters();
