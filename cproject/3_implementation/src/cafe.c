@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-#include"cafe.h"
+#include<cafe.h>
 int Milk_price=10,Tea_price=15,Coffee_price=30,Cold_coffee_price=110,Hot_Chocolate_price=100,Green_tea_price=30;
 int tea_cost=0,coffee_cost=0,hot_chocolate_cost=0,cold_coffee_cost=0,milk_cost=0,green_tea_cost=0;
 int tea_quantity=0,coffee_quantity=0,hot_chocolate_quantity=0,cold_coffee_quantity=0,milk_quantity=0,green_tea_quantity=0;
